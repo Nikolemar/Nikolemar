@@ -11,7 +11,7 @@
 
   😄 Pronouns she/her...
 
-	⚡️ Fun fact I was born and raise in Puerto Rico🇵🇷
+	⚡️ Fun fact I am a US Army Vet 
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
