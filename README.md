@@ -1,11 +1,11 @@
 # Hola, I'm Nicole! 👋
-
- ## Glad to see you here!  
-</td><td valign="top" width="50%">
+## Glad to see you here!  
+ 
+<td valign="top" width="40%">
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 <div align="center">Feel free to reach out! </div>  
-</div>
+
 		# 🚀 About Me
 						👩‍💻 I'm currently studying to become a full stack developer...
 
@@ -46,8 +46,8 @@
   
 ## Github Stats  
 <td valign="top" width="50%">
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nikolemar&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nikolemar&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 60%" />
 <td valign="top" width="50%">
-![Profile views counter](https://komarev.com/ghpvc/?username=Nikolemar&&style=flat-square)  
+
   
 
