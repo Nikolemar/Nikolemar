@@ -4,7 +4,9 @@
 <td valign="top" width="50%">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+	
 # 🚀 About Me
+	
 	👩‍💻 I'm currently studying to become a full stack developer...
 
 	🧠 I'm currently learning Frameworks...
@@ -15,6 +17,8 @@
 	
 	🫡 Fun fact I am a US Army Veteran 
 	
+
+<div align="center">Feel free to reach out! </div>  	
 <a href="https://instagram.com/nikolemar_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -38,7 +42,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
-<div align="center">Feel free to reach out! </div>  	
+
 
   
 ## Github Stats  
