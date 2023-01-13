@@ -1,6 +1,23 @@
-## Hey 👋, I'm Nicole!  
-  
+# Hola, I'm Nicole! 👋
 
+ ## Glad to see you here!  
+</td><td valign="top" width="50%">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<div align="center">Feel free to reach out! </div>  
+</div>
+		# 🚀 About Me
+						👩‍💻 I'm currently studying to become a full stack developer...
+
+						🧠 I'm currently learning Frameworks...
+
+						👯‍♀️ I'm looking to collaborate on anything or with anyone...
+
+						🤔 I'm looking for help with...
+
+						😄 Pronouns she/her...
+
+						⚡️ Fun fact I was born and raise in Puerto Rico🇵🇷
 <a href="https://instagram.com/nikolemar_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -13,45 +30,9 @@
 <a href="https://linkedin.com/in/nikxmar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
-
-### Glad to see you here!  
-<div align="center">Feel free to reach out! </div>  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-🔭 I’m currently working on finishing [FullStack Academy](https://www.fullstackacademy.com/)  
-  
-
-🌱 I’m currently learning React   
-  
-
-🫡  Fun fact: I am a US Army Veteran.   
-  
-
-  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
+## 🛠 Skills
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -62,33 +43,11 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nikolemar&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
   
-
-<br/>  
-
+## Github Stats  
+<td valign="top" width="50%">
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Nikolemar&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" />
+<td valign="top" width="50%">
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nikolemar&&style=flat-square)  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank"></a></div>
