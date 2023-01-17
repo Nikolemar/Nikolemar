@@ -1,10 +1,8 @@
 # Hola, I'm Nicole! 👋
 ## Glad to see you here!  
- 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
 <td valign="top" width="50%">
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-	
+<div align="center">	
 # 🚀 About Me
 	
 	👩‍💻 I'm currently studying to become a full stack developer...
@@ -16,8 +14,7 @@
 	😄 Pronouns she/her...
 	
 	🫡 Fun fact I am a US Army Veteran 
-	
-
+</div>	
 <div align="center">Feel free to reach out! </div>  	
 <a href="https://instagram.com/nikolemar_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
