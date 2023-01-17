@@ -38,14 +38,4 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-</div>  
-
-
-  
-## Github Stats  
-<td valign="top" width="50%">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nikolemar&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" />
-<td valign="top" width="50%">
-
-  
-
+</div> 
